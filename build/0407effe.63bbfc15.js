@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{133:function(a){a.exports=JSON.parse('{"allTagsPath":"/ICS733_documentation/blog/tags","slug":"clases","name":"clases","count":2,"permalink":"/ICS733_documentation/blog/tags/clases"}')}}]);

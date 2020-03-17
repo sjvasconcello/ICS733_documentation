@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{134:function(o){o.exports=JSON.parse('{"allTagsPath":"/ICS733_documentation/blog/tags","slug":"ejemplo","name":"ejemplo","count":2,"permalink":"/ICS733_documentation/blog/tags/ejemplo"}')}}]);
