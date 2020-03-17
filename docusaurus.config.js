@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Introduccion a la Economia',
   tagline: 'Prof: María Pía Santibáñez',
-  url: 'https://sjvasconcello.github.io/',
+  url: 'https://sjvasconcello.github.io',
   baseUrl: '/ICS733_documentation/',
   favicon: 'img/favicon.ico',
   organizationName: 'sjvasconcello', // Usually your GitHub org/user name.
