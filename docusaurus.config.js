@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Introduccion a la Economia',
   tagline: 'Prof: María Pía Santibáñez',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://sjvasconcello.github.io/',
+  baseUrl: '/ICS733_documentation/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'sjvasconcello', // Usually your GitHub org/user name.
+  projectName: 'ICS733_documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Economía IA',
